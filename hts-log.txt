@@ -1,0 +1,355 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 30 Dec 2024 09:25:53 at https://alis-lighting.vn/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://alis-lighting.vn/ -O1 "C:\My Web Sites\alislighting" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:28:03	Error: 	"Forbidden" (403) at link https://alis-lighting.vn/xmlrpc.php?rsd (from https://alis-lighting.vn/)
+09:28:03	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://alis-lighting.vn/)
+09:30:42	Warning: 	Moved Permanently for https://alis-lighting.vn/occhio-store-by-alis-lighting/
+09:30:42	Warning: 	File has moved from https://alis-lighting.vn/occhio-store-by-alis-lighting/ to https://alis-lighting.vn/den-occhio-chinh-hang/
+09:32:14	Error: 	"Not Found" (404) at link https://alis-lighting.vn/wp-content/uploads/2024/05/logo-PNG-high-res-Â®-min.png (from https://alis-lighting.vn/)
+09:32:14	Error: 	"Bad Request" (400) at link https://alis-lighting.vn/wp-admin/admin-ajax.php?action=rest-nonce (from https://alis-lighting.vn/)
+09:32:15	Error: 	"Not Found" (404) at link https://alis-lighting.vn/wp-content/themes/mrittik/assets/css/images/ui-icons_444444_256x240.png (from https://alis-lighting.vn/wp-content/cache/wpfc-minified/mk6fuph6/h5os5.css)
+09:32:15	Error: 	"Not Found" (404) at link https://alis-lighting.vn/wp-content/themes/mrittik/assets/css/images/ui-icons_555555_256x240.png (from https://alis-lighting.vn/wp-content/cache/wpfc-minified/mk6fuph6/h5os5.css)
+09:32:15	Error: 	"Not Found" (404) at link https://alis-lighting.vn/wp-content/themes/mrittik/assets/css/images/ui-icons_ffffff_256x240.png (from https://alis-lighting.vn/wp-content/cache/wpfc-minified/mk6fuph6/h5os5.css)
+09:32:15	Error: 	"Not Found" (404) at link https://alis-lighting.vn/wp-content/themes/mrittik/assets/css/images/ui-icons_777620_256x240.png (from https://alis-lighting.vn/wp-content/cache/wpfc-minified/mk6fuph6/h5os5.css)
+09:32:16	Error: 	"Not Found" (404) at link https://alis-lighting.vn/wp-content/themes/mrittik/assets/css/images/ui-icons_cc0000_256x240.png (from https://alis-lighting.vn/wp-content/cache/wpfc-minified/mk6fuph6/h5os5.css)
+09:32:16	Error: 	"Not Found" (404) at link https://alis-lighting.vn/wp-content/themes/mrittik/assets/css/images/ui-icons_777777_256x240.png (from https://alis-lighting.vn/wp-content/cache/wpfc-minified/mk6fuph6/h5os5.css)
+09:32:16	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=498
+09:32:16	Warning: 	File has moved from https://alis-lighting.vn/?p=498 to https://alis-lighting.vn/ve-chung-toi/
+09:32:49	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=6771
+09:32:49	Warning: 	File has moved from https://alis-lighting.vn/?p=6771 to https://alis-lighting.vn/du-an-tong-the/
+09:32:49	Error: 	"Not Found" (404) at link https://alis-lighting.vn/khong-gian-cong-cong-nghe-thuat/ (from https://alis-lighting.vn/du-an-tong-the/)
+09:32:49	Error: 	"Not Found" (404) at link https://alis-lighting.vn/showroom-khong-gian-trai-nghiem/ (from https://alis-lighting.vn/du-an-tong-the/)
+09:32:49	Error: 	"Not Found" (404) at link https://alis-lighting.vn/villa-biet-thu-can-ho-cao-cap/ (from https://alis-lighting.vn/du-an-tong-the/)
+09:32:49	Error: 	"Not Found" (404) at link https://alis-lighting.vn/van-phong/ (from https://alis-lighting.vn/du-an-tong-the/)
+09:32:49	Error: 	"Not Found" (404) at link https://alis-lighting.vn/?page_id=492 (from https://alis-lighting.vn/du-an-tong-the/)
+09:32:49	Error: 	"Not Found" (404) at link https://alis-lighting.vn/?page_id=10553 (from https://alis-lighting.vn/du-an-tong-the/)
+09:32:50	Error: 	"Not Found" (404) at link https://alis-lighting.vn/?page_id=10597 (from https://alis-lighting.vn/du-an-tong-the/)
+09:32:50	Error: 	"Not Found" (404) at link https://alis-lighting.vn/?page_id=10606 (from https://alis-lighting.vn/du-an-tong-the/)
+09:33:39	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=5446
+09:33:39	Warning: 	File has moved from https://alis-lighting.vn/?p=5446 to https://alis-lighting.vn/thuong-hieu-chieu-sang-doi-tac/
+09:34:33	Error: 	"Not Found" (404) at link https://alis-lighting.vn/home-04/?color=v-light (from https://alis-lighting.vn/thuong-hieu-chieu-sang-doi-tac/)
+09:34:34	Error: 	"Not Found" (404) at link https://alis-lighting.vn/home-07/?color=v-light (from https://alis-lighting.vn/thuong-hieu-chieu-sang-doi-tac/)
+09:34:35	Error: 	"Not Found" (404) at link https://alis-lighting.vn/home-02/?color=v-light (from https://alis-lighting.vn/thuong-hieu-chieu-sang-doi-tac/)
+09:39:59	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=9006
+09:39:59	Warning: 	File has moved from https://alis-lighting.vn/?p=9006 to https://alis-lighting.vn/den-occhio-chinh-hang/
+09:39:59	Warning: 	Moved Permanently for https://alis-lighting.vn/cua-hang/mito-sospeso/
+09:39:59	Warning: 	File has moved from https://alis-lighting.vn/cua-hang/mito-sospeso/ to https://alis-lighting.vn/cua-hang/occhio-mito-sospeso/
+09:39:59	Warning: 	Moved Permanently for https://alis-lighting.vn/cua-hang/luna-sospeso/
+09:39:59	Warning: 	File has moved from https://alis-lighting.vn/cua-hang/luna-sospeso/ to https://alis-lighting.vn/cua-hang/occhio-luna-sospeso/
+09:39:59	Warning: 	Moved Permanently for https://alis-lighting.vn/cua-hang/sento-sospeso/
+09:39:59	Warning: 	File has moved from https://alis-lighting.vn/cua-hang/sento-sospeso/ to https://alis-lighting.vn/cua-hang/occhio-sento-sospeso/
+09:39:59	Warning: 	Moved Permanently for https://alis-lighting.vn/cua-hang/mito-cosmo-move/
+09:39:59	Warning: 	File has moved from https://alis-lighting.vn/cua-hang/mito-cosmo-move/ to https://alis-lighting.vn/cua-hang/occhio-mito-cosmo-move/
+09:39:59	Warning: 	Moved Permanently for https://alis-lighting.vn/cua-hang/io-verticale/
+09:39:59	Warning: 	File has moved from https://alis-lighting.vn/cua-hang/io-verticale/ to https://alis-lighting.vn/cua-hang/occhio-io-verticale/
+09:39:59	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=11441
+09:39:59	Warning: 	File has moved from https://alis-lighting.vn/?p=11441 to https://alis-lighting.vn/vibia-store-by-alis-lighting/
+09:39:59	Error: 	"Not Found" (404) at link https://alis-lighting.vn/shop/ (from https://alis-lighting.vn/vibia-store-by-alis-lighting/)
+09:40:28	Warning: 	Moved Permanently for https://alis-lighting.vn/cua-hang/flamingo-mini/
+09:40:28	Warning: 	File has moved from https://alis-lighting.vn/cua-hang/flamingo-mini/ to https://alis-lighting.vn/cua-hang/vibia-flamingo-mini/
+09:40:28	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=1481
+09:40:28	Warning: 	File has moved from https://alis-lighting.vn/?p=1481 to https://alis-lighting.vn/blog/
+09:45:29	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13759
+09:45:29	Warning: 	File has moved from https://alis-lighting.vn/?p=13759 to https://alis-lighting.vn/du-an/aimi-can-ho-trong-guong/
+09:45:29	Warning: 	Moved Permanently for https://alis-lighting.vn/2024/10/
+09:45:29	Warning: 	File has moved from https://alis-lighting.vn/2024/10/ to https://alis-lighting.vn
+09:45:53	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13736
+09:45:53	Warning: 	File has moved from https://alis-lighting.vn/?p=13736 to https://alis-lighting.vn/du-an/maison-kn/
+09:46:00	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13719
+09:46:00	Warning: 	File has moved from https://alis-lighting.vn/?p=13719 to https://alis-lighting.vn/du-an/hien-house/
+09:46:00	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=12525
+09:46:00	Warning: 	File has moved from https://alis-lighting.vn/?p=12525 to https://alis-lighting.vn/du-an/tis-31-villa/
+09:46:00	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=4998
+09:46:00	Warning: 	File has moved from https://alis-lighting.vn/?p=4998 to https://alis-lighting.vn/du-an/ms-penthouse-hanoi/
+09:46:00	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=4994
+09:46:00	Warning: 	File has moved from https://alis-lighting.vn/?p=4994 to https://alis-lighting.vn/du-an/can-ho-landcaster/
+09:46:01	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=504
+09:46:01	Warning: 	File has moved from https://alis-lighting.vn/?p=504 to https://alis-lighting.vn/ve-chung-toi/dich-vu-thiet-ke-chieu-sang-co-ban/
+09:46:10	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=12283
+09:46:10	Warning: 	File has moved from https://alis-lighting.vn/?p=12283 to https://alis-lighting.vn/ve-chung-toi/dich-vu-thiet-ke-chieu-sang-tong-the/
+09:46:11	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=506
+09:46:11	Warning: 	File has moved from https://alis-lighting.vn/?p=506 to https://alis-lighting.vn/ve-chung-toi/dich-vu-thiet-ke-chieu-sang-doc-lap/
+09:46:12	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=1605
+09:46:12	Warning: 	File has moved from https://alis-lighting.vn/?p=1605 to https://alis-lighting.vn/du-an/m-hotel-saigon/
+09:46:12	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=1616
+09:46:12	Warning: 	File has moved from https://alis-lighting.vn/?p=1616 to https://alis-lighting.vn/du-an/nha-pheu/
+09:46:12	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=1627
+09:46:12	Warning: 	File has moved from https://alis-lighting.vn/?p=1627 to https://alis-lighting.vn/du-an/villa-dai-lai/
+09:46:12	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=1629
+09:46:12	Warning: 	File has moved from https://alis-lighting.vn/?p=1629 to https://alis-lighting.vn/du-an/find-your-own-self-invintage-lake-house/
+09:46:25	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=1631
+09:46:25	Warning: 	File has moved from https://alis-lighting.vn/?p=1631 to https://alis-lighting.vn/du-an/villa-k3-starlake/
+09:46:25	Warning: 	Moved Permanently for https://alis-lighting.vn/cua-hang/mito-volo/
+09:46:25	Warning: 	File has moved from https://alis-lighting.vn/cua-hang/mito-volo/ to https://alis-lighting.vn/cua-hang/occhio-mito-volo/
+09:46:25	Warning: 	Moved Permanently for https://alis-lighting.vn/cua-hang/io-lettura/
+09:46:25	Warning: 	File has moved from https://alis-lighting.vn/cua-hang/io-lettura/ to https://alis-lighting.vn/cua-hang/occhio-io-lettura/
+09:46:25	Warning: 	Moved Permanently for https://alis-lighting.vn/cua-hang/sento-terra/
+09:46:25	Warning: 	File has moved from https://alis-lighting.vn/cua-hang/sento-terra/ to https://alis-lighting.vn/cua-hang/occhio-sento-terra/
+09:46:25	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=1641
+09:46:25	Warning: 	File has moved from https://alis-lighting.vn/?p=1641 to https://alis-lighting.vn/du-an/tieu-dong-chapel/
+09:46:25	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13255
+09:46:25	Warning: 	File has moved from https://alis-lighting.vn/?p=13255 to https://alis-lighting.vn/cua-hang/alis/
+09:47:09	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13194
+09:47:09	Warning: 	File has moved from https://alis-lighting.vn/?p=13194 to https://alis-lighting.vn/cua-hang/grau/
+09:47:16	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13177
+09:47:16	Warning: 	File has moved from https://alis-lighting.vn/?p=13177 to https://alis-lighting.vn/cua-hang/orbit/
+09:47:24	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13274
+09:47:24	Warning: 	File has moved from https://alis-lighting.vn/?p=13274 to https://alis-lighting.vn/cua-hang/lzf/
+09:47:24	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13099
+09:47:24	Warning: 	File has moved from https://alis-lighting.vn/?p=13099 to https://alis-lighting.vn/he-thong-dieu-khien-anh-sang-occhio-air/
+09:47:24	Error: 	"Forbidden" (403) at link https://alis-lighting.vn/xmlrpc.php (from https://alis-lighting.vn/he-thong-dieu-khien-anh-sang-occhio-air/)
+09:49:26	Warning: 	Moved Permanently for https://alis-lighting.vn/cua-hang/page/1/
+09:49:26	Warning: 	File has moved from https://alis-lighting.vn/cua-hang/page/1/ to https://alis-lighting.vn/cua-hang/
+09:49:27	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13794
+09:49:27	Warning: 	File has moved from https://alis-lighting.vn/?p=13794 to https://alis-lighting.vn/cua-hang/den-luna-pura/
+09:50:58	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=10809
+09:50:58	Warning: 	File has moved from https://alis-lighting.vn/?p=10809 to https://alis-lighting.vn/cua-hang/occhio-mito-sospeso/
+09:50:59	Warning: 	Moved Permanently for https://alis-lighting.vn/product-category/den-tha/
+09:50:59	Warning: 	File has moved from https://alis-lighting.vn/product-category/den-tha/ to https://alis-lighting.vn/product-category/alis/
+09:51:47	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=11261
+09:51:47	Warning: 	File has moved from https://alis-lighting.vn/?p=11261 to https://alis-lighting.vn/cua-hang/occhio-sento-terra/
+09:51:47	Warning: 	Moved Permanently for https://alis-lighting.vn/product-category/den-cay/
+09:51:47	Warning: 	File has moved from https://alis-lighting.vn/product-category/den-cay/ to https://alis-lighting.vn/product-category/grau/
+09:51:57	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13331
+09:51:57	Warning: 	File has moved from https://alis-lighting.vn/?p=13331 to https://alis-lighting.vn/cua-hang/occhio-sento-lettura/
+09:52:18	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=7910
+09:52:18	Warning: 	File has moved from https://alis-lighting.vn/?p=7910 to https://alis-lighting.vn/cua-hang/occhio-mito-volo/
+09:52:35	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=7917
+09:52:35	Warning: 	File has moved from https://alis-lighting.vn/?p=7917 to https://alis-lighting.vn/cua-hang/occhio-sento-sospeso/
+09:52:49	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13335
+09:52:49	Warning: 	File has moved from https://alis-lighting.vn/?p=13335 to https://alis-lighting.vn/cua-hang/occhio-sento-letto/
+09:53:25	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=10051
+09:53:25	Warning: 	File has moved from https://alis-lighting.vn/?p=10051 to https://alis-lighting.vn/cua-hang/occhio-luna-sospeso/
+09:53:43	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=11498
+09:53:43	Warning: 	File has moved from https://alis-lighting.vn/?p=11498 to https://alis-lighting.vn/cua-hang/occhio-io-sospeso/
+09:53:54	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=7918
+09:53:54	Warning: 	File has moved from https://alis-lighting.vn/?p=7918 to https://alis-lighting.vn/cua-hang/occhio-mito-cosmo-move/
+09:54:21	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=10140
+09:54:21	Warning: 	File has moved from https://alis-lighting.vn/?p=10140 to https://alis-lighting.vn/cua-hang/occhio-luna-sospeso-cloud-3/
+09:54:33	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=11268
+09:54:33	Warning: 	File has moved from https://alis-lighting.vn/?p=11268 to https://alis-lighting.vn/cua-hang/occhio-luna-parete/
+09:54:41	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=11270
+09:54:41	Warning: 	File has moved from https://alis-lighting.vn/?p=11270 to https://alis-lighting.vn/cua-hang/occhio-luna-scura/
+09:54:44	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13756
+09:54:44	Warning: 	File has moved from https://alis-lighting.vn/?p=13756 to https://alis-lighting.vn/cua-hang/grau-fire/
+09:54:50	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=10975
+09:54:50	Warning: 	File has moved from https://alis-lighting.vn/?p=10975 to https://alis-lighting.vn/cua-hang/vibia-flamingo/
+09:56:21	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=11496
+09:56:21	Warning: 	File has moved from https://alis-lighting.vn/?p=11496 to https://alis-lighting.vn/cua-hang/occhio-sento-filo/
+09:56:34	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=11272
+09:56:34	Warning: 	File has moved from https://alis-lighting.vn/?p=11272 to https://alis-lighting.vn/cua-hang/vibia-flat/
+09:56:49	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=10981
+09:56:49	Warning: 	File has moved from https://alis-lighting.vn/?p=10981 to https://alis-lighting.vn/cua-hang/vibia-dama-3235/
+09:57:16	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13174
+09:57:16	Warning: 	File has moved from https://alis-lighting.vn/?p=13174 to https://alis-lighting.vn/mua-den-chinh-hang-dau-tu-vao-anh-sang-chat-luong-va-ben-vung/
+09:57:16	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13165
+09:57:16	Warning: 	File has moved from https://alis-lighting.vn/?p=13165 to https://alis-lighting.vn/anh-sang-chiem-nguong-xu-huong-moi-trong-thiet-ke-khong-gian/
+09:57:16	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13155
+09:57:16	Warning: 	File has moved from https://alis-lighting.vn/?p=13155 to https://alis-lighting.vn/dieu-khien-anh-sang-cuoc-cach-mang-cua-cong-nghe/
+09:57:16	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13147
+09:57:16	Warning: 	File has moved from https://alis-lighting.vn/?p=13147 to https://alis-lighting.vn/thiet-ke-chieu-sang-chia-khoa-cho-khong-gian-song-chat-luong/
+09:57:16	Warning: 	Retry after error -4 (No data (connection closed)) at link https://alis-lighting.vn/9-thong-so-den-co-ban-lua-chon-anh-sang-ly-tuong/feed/ (from https://alis-lighting.vn/9-thong-so-den-co-ban-lua-chon-anh-sang-ly-tuong/)
+09:57:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://alis-lighting.vn/wp-json/wp/v2/posts/13126 (from https://alis-lighting.vn/9-thong-so-den-co-ban-lua-chon-anh-sang-ly-tuong/)
+09:57:25	Warning: 	Retry after error -4 (No data (connection closed)) at link https://alis-lighting.vn/?p=13126 (from https://alis-lighting.vn/9-thong-so-den-co-ban-lua-chon-anh-sang-ly-tuong/)
+09:57:25	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13114
+09:57:25	Warning: 	File has moved from https://alis-lighting.vn/?p=13114 to https://alis-lighting.vn/vibia-circus-doc-dao-trong-thiet-ke-va-tinh-nang/
+09:57:25	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13108
+09:57:25	Warning: 	File has moved from https://alis-lighting.vn/?p=13108 to https://alis-lighting.vn/vibia-net-tinh-hoa-anh-sang-duong-dai/
+09:57:25	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13088
+09:57:25	Warning: 	File has moved from https://alis-lighting.vn/?p=13088 to https://alis-lighting.vn/occhio-cuoc-cach-mang-trong-chieu-sang-noi-that/
+09:57:25	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=1064
+09:57:25	Warning: 	File has moved from https://alis-lighting.vn/?p=1064 to https://alis-lighting.vn/cua-hang/orbit-bogd-half-in/
+09:58:09	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=10798
+09:58:09	Warning: 	File has moved from https://alis-lighting.vn/?p=10798 to https://alis-lighting.vn/cua-hang/orbit-borderless-medium-swift/
+09:58:37	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=1052
+09:58:37	Warning: 	File has moved from https://alis-lighting.vn/?p=1052 to https://alis-lighting.vn/cua-hang/orbit-borderless-medium/
+09:58:38	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=1063
+09:58:38	Warning: 	File has moved from https://alis-lighting.vn/?p=1063 to https://alis-lighting.vn/cua-hang/orbit-borderless-mini/
+09:58:40	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=1061
+09:58:40	Warning: 	File has moved from https://alis-lighting.vn/?p=1061 to https://alis-lighting.vn/cua-hang/orbit-edgeline-medium/
+09:58:42	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=1043
+09:58:42	Warning: 	File has moved from https://alis-lighting.vn/?p=1043 to https://alis-lighting.vn/cua-hang/grau-salt/
+09:58:51	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=1042
+09:58:51	Warning: 	File has moved from https://alis-lighting.vn/?p=1042 to https://alis-lighting.vn/cua-hang/grau-falling-sun/
+09:59:02	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=1039
+09:59:02	Warning: 	File has moved from https://alis-lighting.vn/?p=1039 to https://alis-lighting.vn/cua-hang/grau-sun/
+09:59:09	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=1041
+09:59:09	Warning: 	File has moved from https://alis-lighting.vn/?p=1041 to https://alis-lighting.vn/cua-hang/grau-nice-one/
+09:59:17	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=11022
+09:59:17	Warning: 	File has moved from https://alis-lighting.vn/?p=11022 to https://alis-lighting.vn/cua-hang/lzf-air/
+09:59:34	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=11015
+09:59:34	Warning: 	File has moved from https://alis-lighting.vn/?p=11015 to https://alis-lighting.vn/cua-hang/lzf-dune-horizontal/
+09:59:43	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=11019
+09:59:43	Warning: 	File has moved from https://alis-lighting.vn/?p=11019 to https://alis-lighting.vn/cua-hang/lzf-eris-suspension/
+09:59:47	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=2113
+09:59:47	Warning: 	File has moved from https://alis-lighting.vn/?p=2113 to https://alis-lighting.vn/du-an/holm-villa-thao-dien/
+09:59:47	Warning: 	Moved Permanently for https://alis-lighting.vn/cua-hang/page/1/?filter_product-brand=occhio
+09:59:47	Warning: 	File has moved from https://alis-lighting.vn/cua-hang/page/1/?filter_product-brand=occhio to https://alis-lighting.vn/cua-hang/?filter_product-brand=occhio
+10:00:12	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=1645
+10:00:12	Warning: 	File has moved from https://alis-lighting.vn/?p=1645 to https://alis-lighting.vn/du-an/la-fee-bridal/
+10:00:12	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=1643
+10:00:12	Warning: 	File has moved from https://alis-lighting.vn/?p=1643 to https://alis-lighting.vn/du-an/phan-anh-luxury-living-showroom/
+10:00:12	Warning: 	Moved Permanently for https://alis-lighting.vn/cua-hang/io-sospeso/
+10:00:12	Warning: 	File has moved from https://alis-lighting.vn/cua-hang/io-sospeso/ to https://alis-lighting.vn/cua-hang/occhio-io-sospeso/
+10:00:12	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=1069
+10:00:12	Warning: 	File has moved from https://alis-lighting.vn/?p=1069 to https://alis-lighting.vn/cua-hang/alis-pa-68/
+10:00:12	Warning: 	Moved Permanently for https://alis-lighting.vn/product-category/alis/
+10:00:12	Warning: 	File has moved from https://alis-lighting.vn/product-category/alis/ to https://alis-lighting.vn/product-category/sans-souci/
+10:00:12	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=1065
+10:00:12	Warning: 	File has moved from https://alis-lighting.vn/?p=1065 to https://alis-lighting.vn/cua-hang/alis-a6020/
+10:00:22	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=1067
+10:00:22	Warning: 	File has moved from https://alis-lighting.vn/?p=1067 to https://alis-lighting.vn/cua-hang/alis-m3003/
+10:00:22	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=1066
+10:00:22	Warning: 	File has moved from https://alis-lighting.vn/?p=1066 to https://alis-lighting.vn/cua-hang/alis-a6154/
+10:00:33	Warning: 	Moved Permanently for https://alis-lighting.vn/cua-hang/page/1/?filter_product-brand=grau
+10:00:33	Warning: 	File has moved from https://alis-lighting.vn/cua-hang/page/1/?filter_product-brand=grau to https://alis-lighting.vn/cua-hang/?filter_product-brand=grau
+10:00:33	Warning: 	Moved Permanently for https://alis-lighting.vn/cua-hang/page/1/?filter_product-brand=orbit
+10:00:33	Warning: 	File has moved from https://alis-lighting.vn/cua-hang/page/1/?filter_product-brand=orbit to https://alis-lighting.vn/cua-hang/?filter_product-brand=orbit
+10:00:35	Warning: 	Moved Permanently for https://alis-lighting.vn/cua-hang/page/1/?filter_product-brand=lzf
+10:00:35	Warning: 	File has moved from https://alis-lighting.vn/cua-hang/page/1/?filter_product-brand=lzf to https://alis-lighting.vn/cua-hang/?filter_product-brand=lzf
+10:00:36	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=11259
+10:00:36	Warning: 	File has moved from https://alis-lighting.vn/?p=11259 to https://alis-lighting.vn/cua-hang/occhio-sento-verticale/
+10:01:48	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13428
+10:01:48	Warning: 	File has moved from https://alis-lighting.vn/?p=13428 to https://alis-lighting.vn/cua-hang/vibia-tempo-hanging/
+10:01:49	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=10977
+10:01:49	Warning: 	File has moved from https://alis-lighting.vn/?p=10977 to https://alis-lighting.vn/cua-hang/vibia-flamingo-mini/
+10:02:11	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=7916
+10:02:11	Warning: 	File has moved from https://alis-lighting.vn/?p=7916 to https://alis-lighting.vn/cua-hang/occhio-io-verticale/
+10:02:20	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13421
+10:02:20	Warning: 	File has moved from https://alis-lighting.vn/?p=13421 to https://alis-lighting.vn/cua-hang/occhio-lui-piano/
+10:02:23	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13414
+10:02:23	Warning: 	File has moved from https://alis-lighting.vn/?p=13414 to https://alis-lighting.vn/cua-hang/occhio-luna-basso/
+10:02:35	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13411
+10:02:35	Warning: 	File has moved from https://alis-lighting.vn/?p=13411 to https://alis-lighting.vn/cua-hang/occhio-luna-piena/
+10:02:46	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13407
+10:02:46	Warning: 	File has moved from https://alis-lighting.vn/?p=13407 to https://alis-lighting.vn/cua-hang/occhio-luna-sogno/
+10:03:02	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13405
+10:03:02	Warning: 	File has moved from https://alis-lighting.vn/?p=13405 to https://alis-lighting.vn/cua-hang/occhio-mito-alto/
+10:03:11	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13398
+10:03:11	Warning: 	File has moved from https://alis-lighting.vn/?p=13398 to https://alis-lighting.vn/cua-hang/occhio-mito-alto-side/
+10:03:21	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13394
+10:03:21	Warning: 	File has moved from https://alis-lighting.vn/?p=13394 to https://alis-lighting.vn/cua-hang/occhio-mito-aura/
+10:04:27	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13479
+10:04:27	Warning: 	File has moved from https://alis-lighting.vn/?p=13479 to https://alis-lighting.vn/cua-hang/vibia-knit-floor-table/
+10:04:34	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=12
+10:04:34	Warning: 	File has moved from https://alis-lighting.vn/?p=12 to https://alis-lighting.vn/cart/
+10:04:34	Warning: 	Found for https://alis-lighting.vn/cart/?remove_item=49e863b146f3b5470ee222ee84669b1c&_wpnonce=d9288ab929
+10:04:34	Warning: 	File has moved from https://alis-lighting.vn/cart/?remove_item=49e863b146f3b5470ee222ee84669b1c&_wpnonce=d9288ab929 to http://alis-lighting.vn/cart/?removed_item=1
+10:04:34	Warning: 	Found for https://alis-lighting.vn/cart/?remove_item=d85688fce613669775c5eef50f20386a&_wpnonce=d9288ab929
+10:04:34	Warning: 	File has moved from https://alis-lighting.vn/cart/?remove_item=d85688fce613669775c5eef50f20386a&_wpnonce=d9288ab929 to http://alis-lighting.vn/cart/?removed_item=1
+10:04:34	Warning: 	Found for https://alis-lighting.vn/cart/?remove_item=482b4b31a9310f6d589eda6822b29975&_wpnonce=d9288ab929
+10:04:34	Warning: 	File has moved from https://alis-lighting.vn/cart/?remove_item=482b4b31a9310f6d589eda6822b29975&_wpnonce=d9288ab929 to http://alis-lighting.vn/cart/?removed_item=1
+10:04:34	Warning: 	Found for https://alis-lighting.vn/cart/?remove_item=f4dd765c12f2ef67f98f3558c282a9cd&_wpnonce=d9288ab929
+10:04:34	Warning: 	File has moved from https://alis-lighting.vn/cart/?remove_item=f4dd765c12f2ef67f98f3558c282a9cd&_wpnonce=d9288ab929 to http://alis-lighting.vn/cart/?removed_item=1
+10:04:34	Warning: 	Found for https://alis-lighting.vn/cart/?remove_item=a89cf525e1d9f04d16ce31165e139a4b&_wpnonce=d9288ab929
+10:04:34	Warning: 	File has moved from https://alis-lighting.vn/cart/?remove_item=a89cf525e1d9f04d16ce31165e139a4b&_wpnonce=d9288ab929 to http://alis-lighting.vn/cart/?removed_item=1
+10:04:34	Warning: 	Found for https://alis-lighting.vn/cart/?remove_item=b9141aff1412dc76340b3822d9ea6c72&_wpnonce=d9288ab929
+10:04:34	Warning: 	File has moved from https://alis-lighting.vn/cart/?remove_item=b9141aff1412dc76340b3822d9ea6c72&_wpnonce=d9288ab929 to http://alis-lighting.vn/cart/?removed_item=1
+10:04:34	Warning: 	Found for https://alis-lighting.vn/cart/?remove_item=523df5a6db0544f3600434b9ffe68367&_wpnonce=d9288ab929
+10:04:34	Warning: 	File has moved from https://alis-lighting.vn/cart/?remove_item=523df5a6db0544f3600434b9ffe68367&_wpnonce=d9288ab929 to http://alis-lighting.vn/cart/?removed_item=1
+10:05:50	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13353
+10:05:50	Warning: 	File has moved from https://alis-lighting.vn/?p=13353 to https://alis-lighting.vn/cua-hang/occhio-mito-soffitto/
+10:05:54	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=11263
+10:05:54	Warning: 	File has moved from https://alis-lighting.vn/?p=11263 to https://alis-lighting.vn/cua-hang/occhio-io-lettura/
+10:06:04	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13348
+10:06:04	Warning: 	File has moved from https://alis-lighting.vn/?p=13348 to https://alis-lighting.vn/cua-hang/occhio-mito-terra/
+10:06:15	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=11265
+10:06:15	Warning: 	File has moved from https://alis-lighting.vn/?p=11265 to https://alis-lighting.vn/cua-hang/luna-sospeso-cloud-5-l/
+10:06:18	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13339
+10:06:18	Warning: 	File has moved from https://alis-lighting.vn/?p=13339 to https://alis-lighting.vn/cua-hang/occhio-piu-alto/
+10:06:55	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13310
+10:06:55	Warning: 	File has moved from https://alis-lighting.vn/?p=13310 to https://alis-lighting.vn/cua-hang/occhio-sito-palo/
+10:07:07	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=10979
+10:07:07	Warning: 	File has moved from https://alis-lighting.vn/?p=10979 to https://alis-lighting.vn/cua-hang/vibia-wireflow-lineal/
+10:07:13	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13321
+10:07:13	Warning: 	File has moved from https://alis-lighting.vn/?p=13321 to https://alis-lighting.vn/cua-hang/occhio-sito-basso/
+10:08:50	Warning: 	Moved Permanently for https://alis-lighting.vn/cua-hang/page/1/?filter_thuong-hieu=occhio
+10:08:50	Warning: 	File has moved from https://alis-lighting.vn/cua-hang/page/1/?filter_thuong-hieu=occhio to https://alis-lighting.vn/cua-hang/?filter_thuong-hieu=occhio
+10:08:53	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=11333
+10:08:53	Warning: 	File has moved from https://alis-lighting.vn/?p=11333 to https://alis-lighting.vn/cua-hang/kerchiefs-by-sans-souci/
+10:09:07	Warning: 	Moved Permanently for https://alis-lighting.vn/cua-hang/page/1/?filter_loai-san-pham=den-tha
+10:09:07	Warning: 	File has moved from https://alis-lighting.vn/cua-hang/page/1/?filter_loai-san-pham=den-tha to https://alis-lighting.vn/cua-hang/?filter_loai-san-pham=den-tha
+10:09:08	Warning: 	Moved Permanently for https://alis-lighting.vn/cua-hang/page/1/?filter_chuc-nang=den-trang-tri-co-tinh-giai-phap
+10:09:08	Warning: 	File has moved from https://alis-lighting.vn/cua-hang/page/1/?filter_chuc-nang=den-trang-tri-co-tinh-giai-phap to https://alis-lighting.vn/cua-hang/?filter_chuc-nang=den-trang-tri-co-tinh-giai-phap
+10:09:39	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13440
+10:09:39	Warning: 	File has moved from https://alis-lighting.vn/?p=13440 to https://alis-lighting.vn/cua-hang/vibia-plusminus/
+10:09:45	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13475
+10:09:45	Warning: 	File has moved from https://alis-lighting.vn/?p=13475 to https://alis-lighting.vn/cua-hang/vibia-palma-wall/
+10:09:47	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13126
+10:09:47	Warning: 	File has moved from https://alis-lighting.vn/?p=13126 to https://alis-lighting.vn/9-thong-so-den-co-ban-lua-chon-anh-sang-ly-tuong/
+10:10:35	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13466
+10:10:35	Warning: 	File has moved from https://alis-lighting.vn/?p=13466 to https://alis-lighting.vn/cua-hang/vibia-skan-floor-table/
+10:11:23	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=2111
+10:11:23	Warning: 	File has moved from https://alis-lighting.vn/?p=2111 to https://alis-lighting.vn/du-an/magnolia-net-zero-carbon/
+10:11:23	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=2107
+10:11:23	Warning: 	File has moved from https://alis-lighting.vn/?p=2107 to https://alis-lighting.vn/du-an/open-asia-hanoi-office/
+10:11:23	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=2109
+10:11:23	Warning: 	File has moved from https://alis-lighting.vn/?p=2109 to https://alis-lighting.vn/du-an/mb-priority-lounge/
+10:11:23	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13390
+10:11:23	Warning: 	File has moved from https://alis-lighting.vn/?p=13390 to https://alis-lighting.vn/cua-hang/occhio-mito-cosmo-piano/
+10:11:33	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13359
+10:11:33	Warning: 	File has moved from https://alis-lighting.vn/?p=13359 to https://alis-lighting.vn/cua-hang/occhio-mito-sfera/
+10:11:36	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13384
+10:11:36	Warning: 	File has moved from https://alis-lighting.vn/?p=13384 to https://alis-lighting.vn/cua-hang/occhio-mito-largo/
+10:11:42	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13377
+10:11:42	Warning: 	File has moved from https://alis-lighting.vn/?p=13377 to https://alis-lighting.vn/cua-hang/occhio-mito-raggio/
+10:11:44	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13373
+10:11:44	Warning: 	File has moved from https://alis-lighting.vn/?p=13373 to https://alis-lighting.vn/cua-hang/occhio-mito-raggio-lusso/
+10:11:54	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13483
+10:11:54	Warning: 	File has moved from https://alis-lighting.vn/?p=13483 to https://alis-lighting.vn/cua-hang/vibia-array/
+10:11:55	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13446
+10:11:55	Warning: 	File has moved from https://alis-lighting.vn/?p=13446 to https://alis-lighting.vn/cua-hang/vibia-algorithm/
+10:12:07	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13458
+10:12:07	Warning: 	File has moved from https://alis-lighting.vn/?p=13458 to https://alis-lighting.vn/cua-hang/vibia-tempo-wall/
+10:13:32	Warning: 	Moved Permanently for https://alis-lighting.vn/product-category/occhio/page/1/
+10:13:32	Warning: 	File has moved from https://alis-lighting.vn/product-category/occhio/page/1/ to https://alis-lighting.vn/product-category/occhio/
+10:13:52	Warning: 	Moved Permanently for alis-lighting.vn/robots.txt
+10:13:52	Warning: 	Redirected link is identical because of 'URL Hack' option: alis-lighting.vn/robots.txt and https://alis-lighting.vn/robots.txt
+10:13:52	Warning: 	Warning moved treated for alis-lighting.vn/robots.txt (real one is https://alis-lighting.vn/robots.txt)
+10:13:52	Warning: 	Moved Permanently for alis-lighting.vn/cart/?removed_item=1
+10:13:52	Warning: 	Redirected link is identical because of 'URL Hack' option: alis-lighting.vn/cart/?removed_item=1 and https://alis-lighting.vn/cart/?removed_item=1
+10:13:52	Warning: 	File has moved from alis-lighting.vn/cart/?removed_item=1 to https://alis-lighting.vn/cart/?removed_item=1
+10:13:52	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13
+10:13:52	Warning: 	File has moved from https://alis-lighting.vn/?p=13 to https://alis-lighting.vn/checkout/
+10:13:52	Warning: 	Found for https://alis-lighting.vn/cart/?undo_item=482b4b31a9310f6d589eda6822b29975&_wpnonce=d9288ab929
+10:13:52	Warning: 	File has moved from https://alis-lighting.vn/cart/?undo_item=482b4b31a9310f6d589eda6822b29975&_wpnonce=d9288ab929 to http://alis-lighting.vn/checkout/
+10:13:52	Warning: 	Found for https://alis-lighting.vn/cart/?undo_item=f4dd765c12f2ef67f98f3558c282a9cd&_wpnonce=d9288ab929
+10:13:52	Warning: 	File has moved from https://alis-lighting.vn/cart/?undo_item=f4dd765c12f2ef67f98f3558c282a9cd&_wpnonce=d9288ab929 to http://alis-lighting.vn/checkout/
+10:13:52	Warning: 	Found for https://alis-lighting.vn/cart/?undo_item=a89cf525e1d9f04d16ce31165e139a4b&_wpnonce=d9288ab929
+10:13:52	Warning: 	File has moved from https://alis-lighting.vn/cart/?undo_item=a89cf525e1d9f04d16ce31165e139a4b&_wpnonce=d9288ab929 to http://alis-lighting.vn/checkout/
+10:13:52	Warning: 	Found for https://alis-lighting.vn/cart/?undo_item=b9141aff1412dc76340b3822d9ea6c72&_wpnonce=d9288ab929
+10:13:52	Warning: 	File has moved from https://alis-lighting.vn/cart/?undo_item=b9141aff1412dc76340b3822d9ea6c72&_wpnonce=d9288ab929 to http://alis-lighting.vn/checkout/
+10:13:52	Warning: 	Moved Permanently for https://alis-lighting.vn/product-tag/den-trang-tri-mang-tinh-giai-phap/page/1/
+10:13:52	Warning: 	File has moved from https://alis-lighting.vn/product-tag/den-trang-tri-mang-tinh-giai-phap/page/1/ to https://alis-lighting.vn/product-tag/den-trang-tri-mang-tinh-giai-phap/
+10:15:36	Warning: 	Moved Permanently for https://alis-lighting.vn/product-category/vibia/page/1/
+10:15:36	Warning: 	File has moved from https://alis-lighting.vn/product-category/vibia/page/1/ to https://alis-lighting.vn/product-category/vibia/
+10:15:36	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13477
+10:15:36	Warning: 	File has moved from https://alis-lighting.vn/?p=13477 to https://alis-lighting.vn/cua-hang/vibia-knit-hanging/
+10:15:38	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13471
+10:15:38	Warning: 	File has moved from https://alis-lighting.vn/?p=13471 to https://alis-lighting.vn/cua-hang/vibia-palma-hanging/
+10:15:39	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13464
+10:15:39	Warning: 	File has moved from https://alis-lighting.vn/?p=13464 to https://alis-lighting.vn/cua-hang/vibia-skan-hanging/
+10:15:39	Warning: 	Moved Permanently for https://alis-lighting.vn/?p=13460
+10:15:39	Warning: 	File has moved from https://alis-lighting.vn/?p=13460 to https://alis-lighting.vn/cua-hang/vibia-slim/
+10:15:57	Warning: 	Moved Permanently for https://alis-lighting.vn/cua-hang/page/1/?filter_thuong-hieu=occhio&filter_chuc-nang=den-trang-tri-co-tinh-giai-phap
+10:15:57	Warning: 	File has moved from https://alis-lighting.vn/cua-hang/page/1/?filter_thuong-hieu=occhio&filter_chuc-nang=den-trang-tri-co-tinh-giai-phap to https://alis-lighting.vn/cua-hang/?filter_thuong-hieu=occhio&filter_chuc-nang=den-trang-tri-co-tinh-giai-phap
+10:18:34	Warning: 	Moved Permanently for https://alis-lighting.vn/product-category/occhio/page/1/?filter_thuong-hieu=occhio
+10:18:34	Warning: 	File has moved from https://alis-lighting.vn/product-category/occhio/page/1/?filter_thuong-hieu=occhio to https://alis-lighting.vn/product-category/occhio/?filter_thuong-hieu=occhio
+10:18:36	Warning: 	Moved Permanently for https://alis-lighting.vn/product-category/occhio/page/1/?filter_chuc-nang=den-trang-tri-co-tinh-giai-phap
+10:18:36	Warning: 	File has moved from https://alis-lighting.vn/product-category/occhio/page/1/?filter_chuc-nang=den-trang-tri-co-tinh-giai-phap to https://alis-lighting.vn/product-category/occhio/?filter_chuc-nang=den-trang-tri-co-tinh-giai-phap
+10:18:37	Warning: 	Moved Permanently for https://alis-lighting.vn/product-tag/den-trang-tri-mang-tinh-giai-phap/page/1/?filter_thuong-hieu=occhio
+10:18:37	Warning: 	File has moved from https://alis-lighting.vn/product-tag/den-trang-tri-mang-tinh-giai-phap/page/1/?filter_thuong-hieu=occhio to https://alis-lighting.vn/product-tag/den-trang-tri-mang-tinh-giai-phap/?filter_thuong-hieu=occhio
+10:18:40	Warning: 	Moved Permanently for https://alis-lighting.vn/product-tag/den-trang-tri-mang-tinh-giai-phap/page/1/?filter_chuc-nang=den-trang-tri-co-tinh-giai-phap
+10:18:40	Warning: 	File has moved from https://alis-lighting.vn/product-tag/den-trang-tri-mang-tinh-giai-phap/page/1/?filter_chuc-nang=den-trang-tri-co-tinh-giai-phap to https://alis-lighting.vn/product-tag/den-trang-tri-mang-tinh-giai-phap/?filter_chuc-nang=den-trang-tri-co-tinh-giai-phap
+10:21:09	Warning: 	Moved Permanently for https://alis-lighting.vn/product-category/occhio/page/1/?filter_thuong-hieu=occhio&filter_chuc-nang=den-trang-tri-co-tinh-giai-phap
+10:21:09	Warning: 	File has moved from https://alis-lighting.vn/product-category/occhio/page/1/?filter_thuong-hieu=occhio&filter_chuc-nang=den-trang-tri-co-tinh-giai-phap to https://alis-lighting.vn/product-category/occhio/?filter_thuong-hieu=occhio&filter_chuc-nang=den-trang-tri-co-tinh-giai-phap
+10:21:10	Warning: 	Moved Permanently for https://alis-lighting.vn/product-tag/den-trang-tri-mang-tinh-giai-phap/page/1/?filter_thuong-hieu=occhio&filter_chuc-nang=den-trang-tri-co-tinh-giai-phap
+10:21:10	Warning: 	File has moved from https://alis-lighting.vn/product-tag/den-trang-tri-mang-tinh-giai-phap/page/1/?filter_thuong-hieu=occhio&filter_chuc-nang=den-trang-tri-co-tinh-giai-phap to https://alis-lighting.vn/product-tag/den-trang-tri-mang-tinh-giai-phap/?filter_thuong-hieu=occhio&filter_chuc-nang=den-trang-tri-co-tinh-giai-phap
+
+HTTrack Website Copier/3.49-2 mirror complete in 57 minutes 14 seconds : 2459 links scanned, 2274 files written (380513237 bytes overall) [237468872 bytes received at 69152 bytes/sec], 181812338 bytes transferred using HTTP compression in 1626 files, ratio 19%, 2.0 requests per connection
+(23 errors, 321 warnings, 0 messages)
