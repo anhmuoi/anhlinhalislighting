@@ -1,0 +1,28 @@
+.elmentort-about {
+    width: 100%;
+}
+.elmentort-container {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+.pxl-icon-box {
+    width: 100%;
+}
+.elementor-item {
+    max-width: 100% !important;
+    width: 100% !important;
+}
+
+.about-us-btn {
+    width: 100%;
+}
+.about-us-btn-container {
+    width: 100%;
+
+}
+.about-us-btn-detail {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
