@@ -865,20 +865,25 @@
     function mrittik_lightdark_switch() {
         let getMode = localStorage.getItem("mode");
         const toggleButton = $(".pxl-switch-button");
-
+        console.log('update mode')
+        
         var currentPath = window.location.pathname;
         var isLandingPage = currentPath.endsWith("/landing/");
-
+        
         if (isLandingPage) {
             toggleButton.css("opacity", "0");
-            getMode = "dark";
+            getMode = "light";
         } else {
             const urlParams = new URLSearchParams(window.location.search);
             const colorParam = urlParams.get('color');
+            
+            console.log(colorParam)
             if (colorParam === 'v-dark' || colorParam === 'v-light') {
                 getMode = (colorParam === 'v-light') ? 'light' : 'dark';
             }
         }
+        console.log(getMode)
+
 
         if (getMode && getMode === "light") {
             $("body").removeClass("dark-mode");
